@@ -31,9 +31,12 @@ Key Features:
 
 - ✅ User Accounts – Personalized profiles for saving favorites and tracking visits.
 - ✅ Local Spot Registration – Businesses, tourist spots, and tambayans can register and be ranked.
-- ✅ Interactive Maps – Easy navigation to curated recommendations.
 - ✅ Community Reviews & Rankings – Users can rate and review places for authenticity.
-- ✅ AI-Powered Suggestions – Tailored recommendations based on user interests.
+- ✅ Search & Discovery – Search bar to find popular and recommended locations.
+- ✅ User-Generated Content – Users can create posts and share experiences.
+- ✅ Navigation & Filtering – Categories for different types of places (business, hangouts, tourist spots).
+- ✅ Interactive UI – Clean design with potential animated elements for engagement.
+
 <br>
 <br>
 
